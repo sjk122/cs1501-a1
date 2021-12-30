@@ -2,6 +2,8 @@
 
 # CS 1501 – Algorithm Implementation – Assignment #1 
 
+# NOTE: If you are a current 1501 student I highly advise against looking at this code. You will learn more by doing it yourself and you'll be glad you did later
+
 *This assignment is adapted from Dr. John Ramirez’s CS 1501 class.*
 
 Due: Friday February 19th @ 11:59pm on Gradescope
